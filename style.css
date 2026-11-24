@@ -1,0 +1,10 @@
+#tester {
+    color: black;
+    background-color: white;
+  
+}
+
+#tester.inverted {
+    color: white;
+    background-color: black;
+}
